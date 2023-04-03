@@ -5,8 +5,8 @@
 
 // For example, if your name were “Maria,” the program would print Hello Maria!.
 
-public class HelloYou {
-    public void main(someName) {
-        
+public class App {
+    public static void main(String[] args) {
+        System.out.println("Hello Carlos!");
     }
 }
