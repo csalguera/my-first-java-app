@@ -8,5 +8,8 @@
 public class App {
     public static void main(String[] args) {
         System.out.println("Hello Carlos!");
+        // System is a built-in Java class
+        // out refers to 'output'
+        // println is short for 'print line'
     }
 }
