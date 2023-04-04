@@ -20,5 +20,11 @@ public class Compiling {
     // Add the missing semicolon in the text editor.
 
     // We’ll compile and execute this file in the next exercise!
+
+    // Let’s compile and execute our program!
+
+    // cd into the bin directory by running cd ./bin
+
+    // Run the executable file by running java Compiling
   }
 }
