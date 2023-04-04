@@ -10,8 +10,15 @@ public class Compiling {
 
     System.out.println("Java is a class-based language.");
     System.out.println("Java classes have a 'main' method.");
-    System.out.println("Java statements end with a semicolon.")
+    System.out.println("Java statements end with a semicolon.");
 
     System.out.println("Programming is... fun!");
+    // Do you see the error?
+
+    // The compiler is telling us one of the print statements is missing a semicolon.
+
+    // Add the missing semicolon in the text editor.
+
+    // We’ll compile and execute this file in the next exercise!
   }
 }
