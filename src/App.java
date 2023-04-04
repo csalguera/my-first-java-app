@@ -65,7 +65,17 @@ public class App {
 
         // Make the file easier to read by adding a newline after each statement!
 
-        System.out.println("Java is a class-based language.");System.out.println("Java classes have a 'main' method.");System.out.println("Java statements end with a semicolon.");
+        System.out.println("Java is a class-based language.");
+        System.out.println("Java classes have a 'main' method.");
+        System.out.println("Java statements end with a semicolon.");
+
+        // Inside main(), add a new statement printing how you feel about coding.
+
+        // Start the message with: “Programming is… “.
+
+        // Remember to place a semicolon at the end of the statement!
+
+        System.out.print("Programming is awesome!");
         // ------------------------------------------------------------------------------------------------------------
     }
 }
