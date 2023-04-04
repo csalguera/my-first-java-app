@@ -1,16 +1,16 @@
 public class App {
     public static void main(String[] args) {
         // Exercise 1 -------------------------------------------------------------------------------------------------
-        // // The text editor has a file, HelloYou.java, that contains a HelloYou class with a main() method.
+        // The text editor has a file, HelloYou.java, that contains a HelloYou class with a main() method.
         
-        // // Inside main(), add a statement which prints Hello someName!, with your name replacing someName. Make sure to end the statement with a semicolon.
+        // Inside main(), add a statement which prints Hello someName!, with your name replacing someName. Make sure to end the statement with a semicolon.
         
-        // // For example, if your name were “Maria,” the program would print Hello Maria!.
+        // For example, if your name were “Maria,” the program would print Hello Maria!.
 
-        // System.out.println("Hello Carlos!");
-        // // System is a built-in Java class
-        // // out refers to 'output'
-        // // println is short for 'print line'
+        System.out.println("Hello Carlos!");
+        // System is a built-in Java class
+        // out refers to 'output'
+        // println is short for 'print line'
         // ------------------------------------------------------------------------------------------------------------
 
         // Exercise 2 -------------------------------------------------------------------------------------------------
@@ -59,23 +59,27 @@ public class App {
         // ------------------------------------------------------------------------------------------------------------
 
         // Exercise 4 -------------------------------------------------------------------------------------------------
-        // The LanguageFacts.java file prints information about Java to the screen.
+        // // The LanguageFacts.java file prints information about Java to the screen.
+        
+        // // Unfortunately, the writer of the file has avoided using whitespace.
+        
+        // // Make the file easier to read by adding a newline after each statement!
+        
+        // System.out.println("Java is a class-based language.");
+        // System.out.println("Java classes have a 'main' method.");
+        // System.out.println("Java statements end with a semicolon.");
+        
+        // // Inside main(), add a new statement printing how you feel about coding.
+        
+        // // Start the message with: “Programming is… “.
+        
+        // // Remember to place a semicolon at the end of the statement!
+        
+        // System.out.print("Programming is awesome!");
+        // ------------------------------------------------------------------------------------------------------------
 
-        // Unfortunately, the writer of the file has avoided using whitespace.
-
-        // Make the file easier to read by adding a newline after each statement!
-
-        System.out.println("Java is a class-based language.");
-        System.out.println("Java classes have a 'main' method.");
-        System.out.println("Java statements end with a semicolon.");
-
-        // Inside main(), add a new statement printing how you feel about coding.
-
-        // Start the message with: “Programming is… “.
-
-        // Remember to place a semicolon at the end of the statement!
-
-        System.out.print("Programming is awesome!");
+        // Exercise 5 -------------------------------------------------------------------------------------------------
+        
         // ------------------------------------------------------------------------------------------------------------
     }
 }
