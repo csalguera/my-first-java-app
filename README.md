@@ -4,15 +4,15 @@ This repo hosts various exercises to learn Java.
 
 ## Contents
 
-* Exercise 1 - HelloYou
-* Exercise 2 - HideAndSeek
-* Exercise 3 - Timeline
-* Exercise 4 - LanguageFacts
-* Exercise 5 - Compiling
-* Exercise 6 - Review
+* [Exercise 1 - HelloYou](https://github.com/csalguera/my-first-java-app#helloyou)
+* [Exercise 2 - HideAndSeek](https://github.com/csalguera/my-first-java-app#hideandseek)
+* [Exercise 3 - Timeline](https://github.com/csalguera/my-first-java-app#timeline)
+* [Exercise 4 - LanguageFacts](https://github.com/csalguera/my-first-java-app#languagefacts)
+* [Exercise 5 - Compiling](https://github.com/csalguera/my-first-java-app#compiling)
+* [Exercise 6 - Review](https://github.com/csalguera/my-first-java-app#review)
 
 
-### HelloYou
+## HelloYou
 
 Inside your ```src``` directory touch a ```HelloYou.java``` file, that contains a HelloYou class with a main() method.
 
@@ -28,7 +28,9 @@ public class HelloYou {
 }
 ```
 
-### HideAndSeek
+##### [Back to Contents](https://github.com/csalguera/my-first-java-app#contents)
+
+## HideAndSeek
 
 Inside your ```src``` directory touch a ```HideAndSekk.java``` file.
 
@@ -52,7 +54,9 @@ public class HideAndSeek {
 }
 ```
 
-### Timeline
+##### [Back to Contents](https://github.com/csalguera/my-first-java-app#contents)
+
+## Timeline
 
 Inside your ```src``` directory touch a ```Timeline.java``` file with plain text information about Java.
 
@@ -96,7 +100,9 @@ Use the multi-line syntax to make these lines into a single comment:
 
 You should still see You are a fun language! printed!
 
-### LanguageFacts
+##### [Back to Contents](https://github.com/csalguera/my-first-java-app#contents)
+
+## LanguageFacts
 
 Inside your ```src``` directory touch a ```LanguageFacts.java``` file that prints information about Java to the screen.
 
@@ -120,7 +126,9 @@ Start the message with: ```“Programming is… “```.
 
 Remember to place a semicolon at the end of the statement!
 
-### Compiling
+##### [Back to Contents](https://github.com/csalguera/my-first-java-app#contents)
+
+## Compiling
 
 Let’s practice compiling and executing a file by entering commands in the terminal!
 
@@ -169,7 +177,9 @@ After executing your file, delete it by running the command: ```rm -rf Compiling
 
 (Note: Java files are automatically compiled from your ```src``` directory into your ```bin``` directory. Alternatively you can change into you ```bin``` directory with the command: ```cd ./bin``` and run the executable file from the terminal by running this command: ```java Compiling```. To change back into your parent directory run the command: ```cd ..```)
 
-### Review
+##### [Back to Contents](https://github.com/csalguera/my-first-java-app#contents)
+
+## Review
 
 Inside of your ```src``` directory touch a ```Review.java``` file and fill it in!
 
@@ -186,3 +196,5 @@ Define the main() method within the curly braces of the Review class.
 Inside of the curly braces for the main() method, write ```The main method executes the tasks of the class``` as a single-line comment.
 
 Below the comment, write a statement that prints the following: My first Java program from scratch!.
+
+##### [Back to Contents](https://github.com/csalguera/my-first-java-app#contents)
