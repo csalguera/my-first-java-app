@@ -1,9 +1,10 @@
 ## My-First-Java-App
 
-This repo hosts various exercises to learn Java, the same exercises can be found at [Codecademy](https://www.codecademy.com/learn/java-introduction). The purpose of this repo is to practice Java utilizing an IDE (Integrated Development Environment), namely VS Code.
+This repo hosts various exercises to learn Java, the same exercises can be found at [Codecademy](https://www.codecademy.com/learn/java-introduction). The purpose of this repo is to practice Java utilizing an IDE (Integrated Development Environment), namely [VS Code](https://code.visualstudio.com/download).
 
 ## Contents
 
+* Install Java
 * [Create a Java Project](https://github.com/csalguera/my-first-java-app#create-a-java-project)
 * [Cloning this Repo](https://github.com/csalguera/my-first-java-app#cloning-this-repo)
 * [Exercise 1 - HelloYou](https://github.com/csalguera/my-first-java-app#helloyou)
@@ -13,6 +14,14 @@ This repo hosts various exercises to learn Java, the same exercises can be found
 * [Exercise 5 - Compiling](https://github.com/csalguera/my-first-java-app#compiling)
 * [Exercise 6 - Review](https://github.com/csalguera/my-first-java-app#review)
 * [Attributions](https://github.com/csalguera/my-first-java-app#attributions)
+
+## Install Java
+
+* Visit [java.com](https://www.java.com/en/) and download the [Mac](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=247939_0ae14417abb444ebb02b9815e2103550) version or [Windows](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=247917_0ae14417abb444ebb02b9815e2103550) version
+
+* Go to [visualstudio.com](https://code.visualstudio.com/docs/languages/java) and install the Java Development Kit for [Mac](https://aka.ms/vscode-java-installer-mac) or for [Windows](https://aka.ms/vscode-java-installer-win)
+
+* Optionally download the [Extension Pack for Java](vscode:extension/vscjava.vscode-java-pack)
 
 ## Create a Java Project
 
