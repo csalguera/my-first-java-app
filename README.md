@@ -4,6 +4,7 @@ This repo hosts various exercises to learn Java.
 
 ## Contents
 
+* Create a Java Project
 * [Cloning this Repo](https://github.com/csalguera/my-first-java-app#cloning-this-repo)
 * [Exercise 1 - HelloYou](https://github.com/csalguera/my-first-java-app#helloyou)
 * [Exercise 2 - HideAndSeek](https://github.com/csalguera/my-first-java-app#hideandseek)
@@ -11,6 +12,23 @@ This repo hosts various exercises to learn Java.
 * [Exercise 4 - LanguageFacts](https://github.com/csalguera/my-first-java-app#languagefacts)
 * [Exercise 5 - Compiling](https://github.com/csalguera/my-first-java-app#compiling)
 * [Exercise 6 - Review](https://github.com/csalguera/my-first-java-app#review)
+
+## Create a Java Project
+
+### Mac:
+
+* Inside of Visual Studio Code hold ```command``` + ```shift``` + ```p``` type ```Java: Create Java Project...``` and hit ```return```
+
+### Windows:
+
+* Inside of Visual Studio Code hold ```ctrl``` + ```shift``` + ```p``` type ```Java: Create Java Project...``` and hit ```enter```
+
+
+A prompt will appear, select ```No build tools``` for now.
+
+Select a desired location for your Java Project (Note: A directory will be created at the desired location)
+
+Finally you will be prompted to name your Java Project
 
 ## Cloning this Repo
 
