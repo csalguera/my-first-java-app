@@ -18,6 +18,10 @@ public class Timeline {
     
     System.out.println("You were created by James Gosling");
   
+    // Our program is still broken!
+
+    // Use the multi-line syntax to make these lines into a single comment:
+
     /*
     James Gosling is a Canadian engineer who 
     created Java while working at Sun Microsystems. 
