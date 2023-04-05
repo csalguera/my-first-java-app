@@ -10,7 +10,7 @@ This repo hosts various exercises to learn Java.
 * [Exercise 4 - LanguageFacts](https://github.com/csalguera/my-first-java-app#languagefacts)
 * [Exercise 5 - Compiling](https://github.com/csalguera/my-first-java-app#compiling)
 * [Exercise 6 - Review](https://github.com/csalguera/my-first-java-app#review)
-* Cloning this Repo
+* [Cloning this Repo](https://github.com/csalguera/my-first-java-app#cloning-this-repo)
 
 
 ## HelloYou
