@@ -208,7 +208,7 @@ To clone this repo, ```cd``` into your desired directory and sinmply run the com
 git clone https://github.com/csalguera/my-first-java-app
 ```
 
-To make a blank slate for paractice of these exercises, run the following commands:
+To make a blank slate for practice of these exercises, run the following commands:
 
 ```
 cd my-first-java-app
