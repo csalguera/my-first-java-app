@@ -271,3 +271,7 @@ Inside of the curly braces for the main() method, write ```The main method execu
 Below the comment, write a statement that prints the following: My first Java program from scratch!.
 
 ##### [Back to Contents](https://github.com/csalguera/my-first-java-app#contents)
+
+## Attributions
+
+View the attributions
