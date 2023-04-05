@@ -25,18 +25,18 @@ This repo hosts various exercises to learn Java, the same exercises can be found
 
 ### Mac:
 
-* Inside of Visual Studio Code hold ```command``` + ```shift``` + ```p``` type ```Java: Create Java Project...``` and hit ```return```
+* Inside of Visual Studio Code, hold ```command``` + ```shift``` + ```p``` type ```Java: Create Java Project...``` and hit ```return```
 
 ### Windows:
 
-* Inside of Visual Studio Code hold ```ctrl``` + ```shift``` + ```p``` type ```Java: Create Java Project...``` and hit ```enter```
+* Inside of Visual Studio Code, hold ```ctrl``` + ```shift``` + ```p``` type ```Java: Create Java Project...``` and hit ```enter```
 
 
 A prompt will appear, select ```No build tools``` for now.
 
 Select a desired location for your Java Project (Note: A directory will be created at the desired location)
 
-Finally you will be prompted to name your Java Project
+Finally, you will be prompted to name your Java Project
 
 ##### [Back to Contents](https://github.com/csalguera/my-first-java-app#contents)
 
@@ -75,7 +75,7 @@ Inside of your ```.vscode``` directory, locate the ```settings.json``` file and 
 }
 ```
 
-Finally if you would like to have your own Remote Repo, run the following commands:
+Finally, if you would like to have your own Remote Repo, run the following commands:
 
 ```
 rm -rf .git
@@ -256,7 +256,7 @@ Run the executable file from the terminal by running this command: ```java Compi
 
 After executing your file, delete it by running the command: ```rm -rf Compiling.class``` and change back to the parent directory by running the command: ```cd ..```
 
-(Note: Java files are automatically compiled from your ```src``` directory into your ```bin``` directory. Alternatively you can change into you ```bin``` directory with the command: ```cd ./bin``` and run the executable file from the terminal by running this command: ```java Compiling```. To change back into your parent directory run the command: ```cd ..```)
+(Note: Java files are automatically compiled from your ```src``` directory into your ```bin``` directory. Alternatively, you can change into your ```bin``` directory with the command: ```cd ./bin``` and run the executable file from the terminal by running this command: ```java Compiling```. To change back into your parent directory run the command: ```cd ..```)
 
 ##### [Back to Contents](https://github.com/csalguera/my-first-java-app#contents)
 
