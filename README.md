@@ -4,7 +4,7 @@ This repo hosts various exercises to learn Java.
 
 ## Contents
 
-* Create a Java Project
+* [Create a Java Project](https://github.com/csalguera/my-first-java-app#create-a-java-project)
 * [Cloning this Repo](https://github.com/csalguera/my-first-java-app#cloning-this-repo)
 * [Exercise 1 - HelloYou](https://github.com/csalguera/my-first-java-app#helloyou)
 * [Exercise 2 - HideAndSeek](https://github.com/csalguera/my-first-java-app#hideandseek)
@@ -29,6 +29,8 @@ A prompt will appear, select ```No build tools``` for now.
 Select a desired location for your Java Project (Note: A directory will be created at the desired location)
 
 Finally you will be prompted to name your Java Project
+
+##### [Back to Contents](https://github.com/csalguera/my-first-java-app#contents)
 
 ## Cloning this Repo
 
