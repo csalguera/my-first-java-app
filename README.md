@@ -1,6 +1,6 @@
 ## My-First-Java-App
 
-This repo hosts various exercises to learn Java.
+This repo hosts various exercises to learn Java, the same exercises can be found at [Codecademy](https://www.codecademy.com/learn/java-introduction). The purpose of this repo is to practice Java utilizing an IDE (Integrated Development Environment), namely VS Code.
 
 ## Contents
 
