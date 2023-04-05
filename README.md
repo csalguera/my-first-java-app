@@ -4,7 +4,7 @@ This repo hosts various exercises to learn Java, the same exercises can be found
 
 ## Contents
 
-* Install Java
+* [Install Java](https://github.com/csalguera/my-first-java-app#install-java)
 * [Create a Java Project](https://github.com/csalguera/my-first-java-app#create-a-java-project)
 * [Cloning this Repo](https://github.com/csalguera/my-first-java-app#cloning-this-repo)
 * [Exercise 1 - HelloYou](https://github.com/csalguera/my-first-java-app#helloyou)
