@@ -21,8 +21,6 @@ This repo hosts various exercises to learn Java, the same exercises can be found
 
 * Go to [visualstudio.com](https://code.visualstudio.com/docs/languages/java) and install the Java Development Kit for [Mac](https://aka.ms/vscode-java-installer-mac) or for [Windows](https://aka.ms/vscode-java-installer-win)
 
-* Optionally download the [Extension Pack for Java](vscode:extension/vscjava.vscode-java-pack)
-
 ## Create a Java Project
 
 ### Mac:

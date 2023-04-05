@@ -6,4 +6,4 @@ I would highly suggest visiting each link to receive more in-depth information o
 
 * [Codecademy](https://www.codecademy.com/learn/java-introduction) for the exercises
 
-* [Visual Studio](https://code.visualstudio.com/docs/languages/java) for providing detailed documentation on how to install the Java Development Kit and Extension Pack
+* [Visual Studio](https://code.visualstudio.com/docs/languages/java) for providing detailed documentation on how to install the Java Development Kit
