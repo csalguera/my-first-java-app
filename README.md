@@ -10,6 +10,7 @@ This repo hosts various exercises to learn Java.
 * [Exercise 4 - LanguageFacts](https://github.com/csalguera/my-first-java-app#languagefacts)
 * [Exercise 5 - Compiling](https://github.com/csalguera/my-first-java-app#compiling)
 * [Exercise 6 - Review](https://github.com/csalguera/my-first-java-app#review)
+* Cloning this Repo
 
 
 ## HelloYou
@@ -196,5 +197,58 @@ Define the main() method within the curly braces of the Review class.
 Inside of the curly braces for the main() method, write ```The main method executes the tasks of the class``` as a single-line comment.
 
 Below the comment, write a statement that prints the following: My first Java program from scratch!.
+
+##### [Back to Contents](https://github.com/csalguera/my-first-java-app#contents)
+
+## Cloning this Repo
+
+To clone this repo, ```cd``` into your desired directory and sinmply run the command:
+
+```
+git clone https://github.com/csalguera/my-first-java-app
+```
+
+To make a blank slate for paractice of these exercises, run the following commands:
+
+```
+cd my-first-java-app
+rm -rf ./src
+mkdir ./src ./.vscode ./lib
+touch ./.vscode/settings.json
+```
+
+Open your local repository in VS Code by running the following command:
+
+```
+open -a "Visual Studio Code" .
+```
+
+Inside of your ```.vscode``` directory, locate the ```settings.json``` file and paste the following:
+
+```
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar"
+  ]
+}
+```
+
+Finally if you would like to have your own Remote Repo, run the following commands:
+
+```
+rm -rf .git
+git init
+git remote add origin <YourRemoteRepository>
+```
+
+Make your first commit with the following commands:
+
+```
+git add .
+git commit -m "initial commit"
+git push -u origin main
+```
 
 ##### [Back to Contents](https://github.com/csalguera/my-first-java-app#contents)
