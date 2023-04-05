@@ -12,6 +12,7 @@ This repo hosts various exercises to learn Java, the same exercises can be found
 * [Exercise 4 - LanguageFacts](https://github.com/csalguera/my-first-java-app#languagefacts)
 * [Exercise 5 - Compiling](https://github.com/csalguera/my-first-java-app#compiling)
 * [Exercise 6 - Review](https://github.com/csalguera/my-first-java-app#review)
+* [Attributions](https://github.com/csalguera/my-first-java-app#attributions)
 
 ## Create a Java Project
 
@@ -274,4 +275,4 @@ Below the comment, write a statement that prints the following: My first Java pr
 
 ## Attributions
 
-View the attributions
+View the [attributions](https://github.com/csalguera/my-first-java-app/blob/main/attributions.md)
