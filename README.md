@@ -42,7 +42,7 @@ Finally you will be prompted to name your Java Project
 
 ## Cloning this Repo
 
-To clone this repo, ```cd``` into your desired directory and sinmply run the command:
+To clone this repo, ```cd``` into your desired directory and simply run the command:
 
 ```
 git clone https://github.com/csalguera/my-first-java-app
